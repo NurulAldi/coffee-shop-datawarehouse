@@ -1,0 +1,81 @@
+product_id,product_category,product_type,product_detail,current_unit_price
+1,Coffee beans,Organic Beans,Brazilian - Organic,18.0
+2,Coffee beans,House blend Beans,Our Old Time Diner Blend,18.0
+3,Coffee beans,Espresso Beans,Espresso Roast,14.75
+4,Coffee beans,Espresso Beans,Primo Espresso Roast,20.45
+5,Coffee beans,Gourmet Beans,Columbian Medium Roast,15.0
+6,Coffee beans,Gourmet Beans,Ethiopia,21.0
+7,Coffee beans,Premium Beans,Jamacian Coffee River,19.75
+8,Coffee beans,Premium Beans,Civet Cat,45.0
+9,Coffee beans,Organic Beans,Organic Decaf Blend,12.0
+10,Coffee beans,Green beans,Guatemalan Sustainably Grown,10.0
+11,Loose Tea,Herbal tea,Lemon Grass,8.95
+12,Loose Tea,Herbal tea,Peppermint,8.95
+13,Loose Tea,Black tea,English Breakfast,8.95
+14,Loose Tea,Black tea,Earl Grey,8.95
+15,Loose Tea,Green tea,Serenity Green Tea,9.25
+16,Loose Tea,Chai tea,Traditional Blend Chai,8.95
+17,Loose Tea,Chai tea,Morning Sunrise Chai,9.5
+18,Loose Tea,Chai tea,Spicy Eye Opener Chai,10.95
+19,Packaged Chocolate,Drinking Chocolate,Dark chocolate,6.4
+20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,7.6
+21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,13.33
+22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2.0
+23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5
+24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3.0
+25,Coffee,Organic brewed coffee,Brazilian Sm,2.2
+26,Coffee,Organic brewed coffee,Brazilian Rg,3.0
+27,Coffee,Organic brewed coffee,Brazilian Lg,3.5
+28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2.0
+29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3.0
+31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2
+32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3.0
+33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5
+34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45
+35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1
+36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75
+37,Coffee,Barista Espresso,Espresso shot,3.0
+38,Coffee,Barista Espresso,Latte,3.75
+39,Coffee,Barista Espresso,Latte Rg,4.25
+40,Coffee,Barista Espresso,Cappuccino,3.75
+41,Coffee,Barista Espresso,Cappuccino Lg,4.25
+42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5
+43,Tea,Brewed herbal tea,Lemon Grass Lg,3.0
+44,Tea,Brewed herbal tea,Peppermint Rg,2.5
+45,Tea,Brewed herbal tea,Peppermint Lg,3.0
+46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5
+47,Tea,Brewed Green tea,Serenity Green Tea Lg,3.0
+48,Tea,Brewed Black tea,English Breakfast Rg,2.5
+49,Tea,Brewed Black tea,English Breakfast Lg,3.0
+50,Tea,Brewed Black tea,Earl Grey Rg,2.5
+51,Tea,Brewed Black tea,Earl Grey Lg,3.0
+52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5
+53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3.0
+54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4.0
+56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1
+58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5
+59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5
+60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75
+61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75
+63,Flavours,Regular syrup,Carmel syrup,0.8
+64,Flavours,Regular syrup,Hazelnut syrup,0.8
+65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,0.8
+69,Bakery,Biscotti,Hazelnut Biscotti,3.25
+70,Bakery,Scone,Cranberry Scone,3.25
+71,Bakery,Pastry,Chocolate Croissant,3.75
+72,Bakery,Scone,Ginger Scone,3.25
+73,Bakery,Pastry,Almond Croissant,3.75
+74,Bakery,Biscotti,Ginger Biscotti,3.5
+75,Bakery,Pastry,Croissant,3.5
+76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5
+77,Bakery,Scone,Oatmeal Scone,3.0
+78,Bakery,Scone,Scottish Cream Scone ,4.5
+79,Bakery,Scone,Jumbo Savory Scone,3.75
+81,Branded,Clothing,I Need My Bean! T-shirt,28.0
+82,Branded,Housewares,I Need My Bean! Diner mug,12.0
+83,Branded,Housewares,I Need My Bean! Latte cup,14.0
+84,Flavours,Regular syrup,Chocolate syrup,0.8
+87,Coffee,Barista Espresso,Ouro Brasileiro shot,3.0
